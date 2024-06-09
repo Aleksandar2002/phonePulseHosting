@@ -1,0 +1,378 @@
+{
+  "phones": [
+    {
+      "model": "70",
+      "image": "honor_70",
+      "price": "500",
+      "discount": 20,
+      "manufacturer": {
+        "name": "Honor",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "8GB",
+        "Battery": "5000mAh",
+        "Screen": "6.4\"",
+        "Camera": "60MP"
+      },
+      "name": "Honor 70",
+      "id": "5"
+    },
+    {
+      "model": "Note 12",
+      "image": "redmi_note12",
+      "price": 200,
+      "discount": 0,
+      "manufacturer": {
+        "name": "Xiaomi",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "6GB",
+        "Battery": "4500mAh",
+        "Screen": "6.8\"",
+        "Camera": "54MP"
+      },
+      "name": "Xiaomi Redmi Note 12",
+      "id": "6"
+    },
+    {
+      "model": "G11",
+      "image": "nokia_g11",
+      "price": 230,
+      "discount": 0,
+      "manufacturer": {
+        "name": "Nokia",
+        "country": "Finland"
+      },
+      "specification": {
+        "RAM": "6GB",
+        "Battery": "4800mAh",
+        "Screen": "6.5\"",
+        "Camera": "40MP"
+      },
+      "name": "Nokia G11",
+      "id": "7"
+    },
+    {
+      "model": "X6",
+      "image": "honor_x6",
+      "price": 250,
+      "discount": 0,
+      "manufacturer": {
+        "name": "Honor",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "6GB",
+        "Battery": "4700mAh",
+        "Screen": "6.6\"",
+        "Camera": "70MP"
+      },
+      "name": "Honor X6",
+      "id": "8"
+    },
+    {
+      "model": "X80",
+      "image": "vivo_x80",
+      "price": 300,
+      "discount": 5,
+      "manufacturer": {
+        "name": "Vivo",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "8GB",
+        "Battery": "4000mAh",
+        "Screen": "6.3\"",
+        "Camera": "40MP"
+      },
+      "name": "Vivo X80",
+      "id": "9"
+    },
+    {
+      "model": "S22",
+      "image": "samsung_s22",
+      "price": 900,
+      "discount": 0,
+      "manufacturer": {
+        "name": "Samsung",
+        "country": "South Korea"
+      },
+      "specification": {
+        "RAM": "12GB",
+        "Battery": "4500mAh",
+        "Screen": "6.6\"",
+        "Camera": "55MP"
+      },
+      "name": "Samsung S22",
+      "id": "11"
+    },
+    {
+      "model": "GT 2",
+      "image": "realme_gt2",
+      "price": 230,
+      "discount": 0,
+      "manufacturer": {
+        "name": "Realme",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "6GB",
+        "Battery": "5500mAh",
+        "Screen": "6.4\"",
+        "Camera": "40MP"
+      },
+      "name": "Realme GT 2",
+      "id": "12"
+    },
+    {
+      "model": "X8A",
+      "image": "honor_x8a",
+      "price": 400,
+      "discount": 10,
+      "manufacturer": {
+        "name": "Honor",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "12GB",
+        "Battery": "5500mAh",
+        "Screen": "6.6\"",
+        "Camera": "80MP"
+      },
+      "name": "Honor X8A",
+      "id": "10"
+    },
+    {
+      "model": "Nova Y61",
+      "image": "huavei_novaY61",
+      "price": 400,
+      "discount": 0,
+      "manufacturer": {
+        "name": "Huawei",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "6GB",
+        "Battery": "4500mAh",
+        "Screen": "6.5\"",
+        "Camera": "52MP"
+      },
+      "name": "Huawei Nova Y61",
+      "id": "13"
+    },
+    {
+      "model": "Mate 50",
+      "image": "hua_mate50",
+      "price": 600,
+      "discount": 8,
+      "manufacturer": {
+        "name": "Huawei",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "12GB",
+        "Battery": "4500mAh",
+        "Screen": "6.7\"",
+        "Camera": "64MP"
+      },
+      "name": "Huawei Mate 50",
+      "id": "14"
+    },
+    {
+      "model": "Iphone 14",
+      "image": "iphone_14",
+      "price": 1000,
+      "discount": 8,
+      "manufacturer": {
+        "name": "Apple",
+        "country": "USA"
+      },
+      "specification": {
+        "RAM": "12GB",
+        "Battery": "5500mAh",
+        "Screen": "6.5\"",
+        "Camera": "80MP"
+      },
+      "name": "Iphone 14",
+      "id": "15"
+    },
+    {
+      "model": "Y33S",
+      "image": "vivo_y33s",
+      "price": 300,
+      "discount": 5,
+      "manufacturer": {
+        "name": "Vivo",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "6GB",
+        "Battery": "4500mAh",
+        "Screen": "6.5\"",
+        "Camera": "55MP"
+      },
+      "name": "Vivo Y33S",
+      "id": "17"
+    },
+    {
+      "model": "Iphone 14 yellow",
+      "image": "iphone_14_yellow",
+      "price": 1100,
+      "discount": 0,
+      "manufacturer": {
+        "name": "Apple",
+        "country": "USA"
+      },
+      "specification": {
+        "RAM": "12GB",
+        "Battery": "5500mAh",
+        "Screen": "6.5\"",
+        "Camera": "80MP"
+      },
+      "name": "Iphone 14 yellow",
+      "id": "19"
+    },
+    {
+      "model": "90",
+      "image": "honor90",
+      "price": 800,
+      "discount": 0,
+      "manufacturer": {
+        "name": "Honor",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "12GB",
+        "Battery": "4700mAh",
+        "Screen": "6.7\"",
+        "Camera": "68MP"
+      },
+      "name": "Honor 90",
+      "id": "20"
+    },
+    {
+      "model": "X7A",
+      "image": "honor_x7a",
+      "price": 750,
+      "discount": 0,
+      "manufacturer": {
+        "name": "Honor",
+        "country": "China"
+      },
+      "specification": {
+        "RAM": "16GB",
+        "Battery": "5000mAh",
+        "Screen": "6.5\"",
+        "Camera": "78MP"
+      },
+      "name": "Honor X7A",
+      "id": "21"
+    },
+    {
+      "model": "Edge 40",
+      "image": "motorolaEdge40",
+      "price": 520,
+      "discount": 20,
+      "manufacturer": {
+        "name": "Motorola",
+        "country": "South Korea"
+      },
+      "specification": {
+        "RAM": "8GB",
+        "Battery": "4700mAh",
+        "Screen": "6.7\"",
+        "Camera": "60MP"
+      },
+      "name": "Motorola Edge 40",
+      "id": "22"
+    },
+    {
+      "model": "S24 ultra",
+      "image": "samsungS24ultra",
+      "price": 1200,
+      "discount": 10,
+      "manufacturer": {
+        "name": "Samsung",
+        "country": "South Korea"
+      },
+      "specification": {
+        "RAM": "16GB",
+        "Battery": "5500mAh",
+        "Screen": "6.5\"",
+        "Camera": "128MP"
+      },
+      "name": "Samsung S24 Ultra",
+      "id": "24"
+    },
+    {
+      "model": "S24",
+      "image": "samsungS24",
+      "price": 1000,
+      "discount": 10,
+      "manufacturer": {
+        "name": "Samsung",
+        "country": "South Korea"
+      },
+      "specification": {
+        "RAM": "16GB",
+        "Battery": "5500mAh",
+        "Screen": "6.5\"",
+        "Camera": "128MP"
+      },
+      "name": "Samsung S24",
+      "id": "18"
+    }
+  ],
+  "users": [
+    {
+      "id": "0",
+      "username": "admin123",
+      "email": "admin@gmail.com",
+      "password": "admin123A",
+      "role": "admin",
+      "cart": []
+    },
+    {
+      "id": "a972",
+      "username": "aleksandar",
+      "email": "aleksandar@gmail.com",
+      "password": "15102002aA",
+      "role": "user",
+      "cart": [],
+      "orders": [
+        {
+          "orderDate": "6/6/2024, 2:51:11 PM",
+          "items": [
+            {
+              "quantity": 1,
+              "phoneId": "6"
+            },
+            {
+              "quantity": 1,
+              "phoneId": "7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a8d",
+      "username": "user123",
+      "email": "user@gmail.com",
+      "password": "user123U",
+      "role": "user",
+      "cart": [
+        {
+          "phoneId": "6",
+          "quantity": 15
+        },
+        {
+          "phoneId": "9",
+          "quantity": 5
+        }
+      ]
+    }
+  ]
+}
